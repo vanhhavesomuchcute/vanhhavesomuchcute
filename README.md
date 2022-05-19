@@ -9,3 +9,8 @@
 <a href="https://github.com/vanhhavesomuchcute/personal-portfolio-website">
   <img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=vanhhavesomuchcute&repo=personal-portfolio-website" />
 </a>
+
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
